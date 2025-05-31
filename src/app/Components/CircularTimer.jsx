@@ -1,3 +1,5 @@
+'use client'
+
 import { ChevronDown, Pause, Play, Settings } from "lucide-react";
 import { useEffect, useState } from "react";
 import TaskChecklist from "./TaskChecklist";
